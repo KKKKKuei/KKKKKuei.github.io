@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+
+#wrapper{
+    margin: 20px auto;
+    width: 1000px;
+    background-color: white;
+}
+#bodyer{
+    clear: left;
+}
+.hd1_line1{
+    background-color: #f8f8fa;
+}
+
+.hd1_line1_left{
+    float:left;
+}
+.hd1_line1_right{
+    float:right;
+}
